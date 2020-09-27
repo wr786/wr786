@@ -4,6 +4,9 @@ I'm wr786.
 
 Currently pursuing a Bachelor's in Robotics Engineering & Computer Science @ Peking Univ.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wr786&color=blueviolet" alt="wr786"/> </p>
+
+
 [Buy me a Cappuccino](https://wr786.github.io/images/tmp/givememoney.png)
 
 <div align="center">
