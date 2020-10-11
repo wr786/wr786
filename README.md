@@ -6,6 +6,7 @@ Currently pursuing a Bachelor's in Robotics Engineering & Computer Science @ Pek
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wr786&color=blueviolet" alt="wr786"/> </p>
 
+[My Homepage](https://wr786.github.io)
 
 [Buy me a Cappuccino](https://wr786.github.io/images/tmp/givememoney.png)
 
