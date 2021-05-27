@@ -2,7 +2,7 @@
 
 I'm wr786.
 
-Currently pursuing a Bachelor's in **Robotics Engineering** & **Computer Science** @ *Peking Univ*.
+Currently pursuing a Bachelor's in **Computer Science** @ *Peking Univ*.
 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff) 
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff) 
