@@ -16,4 +16,4 @@ Currently pursuing a Bachelor's in **Computer Science** @ *Peking Univ*.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wr786&count_private=true&show_icons=true&theme=midnight-purple)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=wr786&theme=nightowl&layout=compact)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=wr786&theme=nightowl)
