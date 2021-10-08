@@ -16,7 +16,3 @@ Currently pursuing a Bachelor's in **Computer Science** @ *Peking Univ*.
 [![wakatime](https://wakatime.com/badge/user/52f9a7f7-b641-4b28-85a6-597e1a327b51.svg)](https://wakatime.com/@52f9a7f7-b641-4b28-85a6-597e1a327b51)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wr786&no-frame=true&row=1" alt="wr786" /></a> </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wr786&count_private=true&show_icons=true&theme=midnight-purple)
-
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=wr786&theme=nightowl&layout=compact)](https://wakatime.com/@wr786)
