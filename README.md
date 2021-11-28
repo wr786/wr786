@@ -20,6 +20,7 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
 [![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/wr786)
+[![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)](SW-6648-0080-4521)
 [![Bangumi](https://img.shields.io/badge/Bangumi-FF6384?style=flat-square&logo=bilibili&logoColor=ffffff)](https://bgm.tv/user/wr786)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wr786&color=blueviolet" alt="wr786"/> </p>
