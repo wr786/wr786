@@ -1,3 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wr786&color=blueviolet" alt="wr786"/> </p>
+
+[![wakatime](https://wakatime.com/badge/user/52f9a7f7-b641-4b28-85a6-597e1a327b51.svg)](https://wakatime.com/@52f9a7f7-b641-4b28-85a6-597e1a327b51)
+![codewars](https://www.codewars.com/users/wr786/badges/micro)
+
 [![](https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
@@ -22,7 +27,3 @@
 [![Steam](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/wr786)
 [![Nintendo Switch](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)](SW-6648-0080-4521)
 [![Bangumi](https://img.shields.io/badge/Bangumi-FF6384?style=flat-square&logo=bilibili&logoColor=ffffff)](https://bgm.tv/user/wr786)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wr786&color=blueviolet" alt="wr786"/> </p>
-
-[![wakatime](https://wakatime.com/badge/user/52f9a7f7-b641-4b28-85a6-597e1a327b51.svg)](https://wakatime.com/@52f9a7f7-b641-4b28-85a6-597e1a327b51)
