@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wr786&color=blueviolet" alt="wr786"/> </p>
+![](https://komarev.com/ghpvc/?username=wr786&color=blueviolet)
+![GitHub User's stars](https://img.shields.io/github/stars/wr786?style=social)
 
 [![wakatime](https://wakatime.com/badge/user/52f9a7f7-b641-4b28-85a6-597e1a327b51.svg)](https://wakatime.com/@52f9a7f7-b641-4b28-85a6-597e1a327b51)
 ![codewars](https://www.codewars.com/users/wr786/badges/micro)
