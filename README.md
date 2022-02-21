@@ -1,3 +1,5 @@
+<img src="https://github-stats.liuli.lol/api?username=wr786&show_icons=true&include_all_commits=true&count_private=true" align="right">
+
 ![](https://komarev.com/ghpvc/?username=wr786&color=blueviolet)
 ![GitHub User's stars](https://img.shields.io/github/stars/wr786?style=social)
 
